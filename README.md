@@ -4,8 +4,11 @@ PhpStorm/WebStorm Live templates let you insert frequently-used or custom code c
 This repo contains live templates for Redux Actions and Reducers.
 
 Action:
+
 ![Demo](img/action.gif "Action live templates demo")
+
 Reducer:
+
 ![Demo](img/reducer.gif "Reducer live templates demo")
 
 ## How to install
